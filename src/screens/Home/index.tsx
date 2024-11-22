@@ -9,7 +9,18 @@ import { Task, TaskItem } from '../../components/Task'
 import { useMemo, useState } from 'react'
 
 export function Home() {
-  const [tasks, setTasks] = useState<Task[]>([])
+  const [tasks, setTasks] = useState<Task[]>([
+    {
+      id: 'kncnsc',
+      description: 'Madonna rainha do pop',
+      done: true,
+    },
+    {
+      id: 'ncsjcnsjc',
+      description: 'Dormir 12h por dia',
+      done: false,
+    },
+  ])
 
   function handleCreateTask(description: string) {
     const newTask = {
