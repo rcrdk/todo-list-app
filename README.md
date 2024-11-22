@@ -7,7 +7,7 @@ This is a simple React Native app for managing a to-do list developed as a chall
 - **Toggle task status**: Mark tasks as done or undo them.
 
 <p align="center">
-  <img alt="React Native To-Do List App Preview" src="https://github.com/rcrdk/todo-list-app/blob/main/public/app.png?raw=true" width="100%" />
+  <img alt="React Native To-Do List App Preview" src="https://github.com/rcrdk/todo-list-app/blob/main/public/app.jpg?raw=true" width="100%" />
 </p>
 
 ## 🎨 Figma
